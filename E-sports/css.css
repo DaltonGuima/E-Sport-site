@@ -1,0 +1,57 @@
+
+header{
+    color: rgba(232, 237, 241, 0.911);
+}
+
+.container{
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px auto;
+    width: 92%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;   
+}
+
+.texto{
+    padding: 3rem;  
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: justify;
+}
+
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
+
+h2{
+    padding: 1.5rem;
+}
+
+.jumbotron{
+    text-align: justify;
+}
+
+.row{
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;   
+    
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+.navbar{
+    
+}
